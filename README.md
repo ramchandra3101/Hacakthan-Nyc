@@ -1,4 +1,4 @@
-# Hacakthan-Nyc
+# Mood Muse
 
 This repository contains the project we built during the **Microsoft Hack Night** in New York City.
 
