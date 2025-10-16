@@ -2,6 +2,8 @@
 
 This repository contains the project we built during the **Microsoft Hack Night** in New York City.
 
+![moodmuse](./moodMuse.jpeg)
+
 ## Project Overview
 
 This AI-powered music recommendation app interprets natural language mood prompts like:
@@ -74,6 +76,6 @@ This project is licensed under the MIT License.
 ## Contributors
 
 - Ramachandra Yerramsetti
-- Sai Kiran Belana
+- [Sai Kiran Belana](https://github.com/belanasaikiran)
 - Hiral Choksi
 
